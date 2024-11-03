@@ -1,0 +1,4 @@
+name: D:\Develops\NLP_PROJECT\NER-DVC-PROJECT\env
+channels:
+  - defaults
+prefix: D:\Develops\NLP_PROJECT\NER-DVC-PROJECT\env
