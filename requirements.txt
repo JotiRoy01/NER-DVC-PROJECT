@@ -4,6 +4,10 @@ dvc
 pandas
 numpy
 PyYAML
-
+mkdocs-material
+transformers[sentencepiece]
+folium==0.18.0
+tensorflow
+pip3 install torch torchvision torchaudio
 ### local packages -
-# -e . # << uncomment this to install from setup.py
+-e . # << uncomment this to install from setup.py
