@@ -15,3 +15,17 @@ python src/NER_data_ingestion/data_ingestion.py
 ```bash
 dvc init
 ```
+### Create Necessary File
+```bash
+mkdir docs
+touch docs/index.md
+mkdir docs/img
+mkdir docs/javascripts
+touch docs/javascripts/mathjax.js
+touch docs/img/.gitkeep
+touch docs/Data_injection.md
+```
+### Run mkdocs server
+```bash
+mkdocs serve
+```
